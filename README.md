@@ -74,3 +74,15 @@ The Supervised Machine Learning performed as followed on the dataset.
 ![EasyEnsembleClassifier_Classification_Report](https://user-images.githubusercontent.com/98929742/174922360-fd652c88-2a80-4602-916d-84d95b43f73d.png)
 
 
+### Recommendation
+
+**Sensitivity / Recall**
+
+- 92% of them were detected and properly classified as high-risk.
+
+**Precision**
+
+- 9% high-risk.
+- 91% high-risk predictions results on false positives
+
+The model yields a High a Recall **(%92)** and is more important. A test with high sensitivity means few false negatives, though there may be a high number of false positives. In this context, false positives are preferable to false negatives. It is better to rule out false positive diagnoses than to miss patients who actually have cancer.

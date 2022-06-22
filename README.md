@@ -8,7 +8,7 @@ The purpose of the analysis is to focus on Supervised Machine Learning and test 
 
 The Supervised Machine Learning performed as followed on the dataset.
 
-##### RandomOverSampler
+#### RandomOverSampler
 
 - Balance Accuracy Score: 60.7%
 - Precision: 99%
@@ -19,7 +19,7 @@ The Supervised Machine Learning performed as followed on the dataset.
 ![RandomOverSampler_Classification_Report](https://user-images.githubusercontent.com/98929742/174922127-324fc217-de2a-4463-a82e-0171a4a64834.png)
 
 
-##### SMOTE
+#### SMOTE
 
 - Balance Accuracy Score: 63.3%
 - Precision: 99%
@@ -30,7 +30,7 @@ The Supervised Machine Learning performed as followed on the dataset.
 ![SMOTE_Classification_Report](https://user-images.githubusercontent.com/98929742/174922165-6ee5ecae-e8a2-4b44-875e-a836fce1456b.png)
 
 
-##### ClusterCentroids
+#### ClusterCentroids
 
 - Balance Accuracy Score:51.4%
 - Precision: 99%
@@ -52,7 +52,7 @@ The Supervised Machine Learning performed as followed on the dataset.
 ![SMOTEENN_Classification_Report](https://user-images.githubusercontent.com/98929742/174922284-4086b38b-b14c-4e68-9d31-f8c63a7d2f21.png)
 
 
-##### BalancedRandomForestClassifier
+#### BalancedRandomForestClassifier
 
 - Balance Accuracy Score: 79.2%
 - Precision: 99%
@@ -63,7 +63,7 @@ The Supervised Machine Learning performed as followed on the dataset.
 ![RandomOverSampler_Classification_Report](https://user-images.githubusercontent.com/98929742/174922322-1dfe7d13-8a35-49cc-9fc8-2d00cf6dc4c4.png)
 
 
-##### EasyEnsembleClassifier
+#### EasyEnsembleClassifier
 
 - Balance Accuracy Score: 91.4%
 - Precision: 99%
